@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "id" : "1",
+            "username" : "carlos",
+            "password" : "bounty"
+        },
+        {
+            "id" : "2",
+            "username" : "karen",
+            "password" : "bounty"
+        },
+        {
+            "id" : "3",
+            "username" : "heathcliff",
+            "password" : "bounty"
+        }        
+    ],
+    "tokens": [
+        {
+            "id" : "100",
+            "key" : "AAAMMMZZZ",
+            "secred" : "123678912396123"
+        },
+        {
+            "id" : "200",
+            "key" : "BBBUUUTTT",
+            "secret" : "2347809234792"
+        },
+        {
+            "id" : "300",
+            "key" : "IIIYYYNNN",
+            "secret" : "23428764928734"
+        }        
+    ],
+    "patients": [
+        {
+            "id" : "100",
+            "active" : "true",
+            "name" : "Ramon Caudillo",
+            "telecom": "(505) 112-1112",
+            "gender": "male"
+            },
+            {
+            "id" : "200",
+            "active" : "true",
+            "name" : "Mai Eoyang",
+            "telecom": "(763) 114-1114",
+            "gender": "female"
+            },
+            {
+            "id" : "300",
+            "active" : "false",
+            "name" : "Abraham Morris",
+            "telecom": "(512) 116-1116",
+            "gender": "male"
+            }        
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "serverauthtokenone",
+  "version": "1.0.0",
+  "description": "fake REST API for authtokenone",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch -p 4000 db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlraillard/serverauthtokenone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlraillard/serverauthtokenone/issues"
+  },
+  "homepage": "https://github.com/mlraillard/serverauthtokenone#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
